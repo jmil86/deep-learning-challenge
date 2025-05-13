@@ -62,6 +62,7 @@ The purpose of this analysis was to build, train, and evaluate a deep learning m
   * Applied one-hot encoding for categorical variables
   * Used feature scaling (`StandardScaler`)
   * Selected appropriate neuron counts and activations for balanced complexity
+  * Added more neurons and epochs for added analysis and comparison
 
 ---
 
